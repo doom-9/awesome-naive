@@ -13,12 +13,9 @@ Please see [CONTRIBUTING.md](https://github.com/naive-ui/awesome-naive/blob/main
 
 ## Contents
 
-- [Contributing](#contributing)
-- [Contents](#contents)
-- [List](#list)
-  - [Tutorial](#tutorial)
-  - [Projects Using NaiveUI](#projects-using-naiveui)
-  - [Related To NaiveUI](#related-to-naiveui)
+- [Tutorial](#Tutorial)
+- [Projects Using NaiveUI](#Projects-Using-NaiveUI)
+- [Related To NaiveUI](#Related-To-NaiveUI)
 
 ## List
 
@@ -40,7 +37,6 @@ Please see [CONTRIBUTING.md](https://github.com/naive-ui/awesome-naive/blob/main
 - [Opentapes](https://codeberg.org/xaviers/Opentapes) - A convergent/adaptive app for streaming Hip-Hop mixtapes. Made with Vue.js & Tauri.
 - [Soybean Admin](https://github.com/honghuangdc/soybean-admin) - a beautiful vue admin template, based on Vue3 + Vite + Naive UI + TypeScript.
 - [Sweetforms](https://github.com/ChronicStone/VueSweetforms) - A feature rich schema-based form generator package build with Naive UI + Typescript
-- [naive-ui-form-creator](https://github.com/doom-9/naive-ui-form-creator) - A visual form generator with rich functions based on naive UI.
 
 ### Related To NaiveUI
 
@@ -51,5 +47,5 @@ Please see [CONTRIBUTING.md](https://github.com/naive-ui/awesome-naive/blob/main
 - [vooks](https://github.com/07akioni/vooks) - Utils Composable for Vue.
 - [vdirs](https://github.com/07akioni/vdirs) - Helper directives for Vue.
 - [naive-ui-snippets](https://github.com/JimFirst/naive-ui-snippets) - Code Snippets of Naive UI for VS Code.
-- [vite-plugin-naive-ui-md](https://github.com/Volankey/vite-plugin-naive-ui-md) -
-  Markdown for Vite with Naive UI Styles.
+- [vite-plugin-naive-ui-md](https://github.com/Volankey/vite-plugin-naive-ui-md) - 
+Markdown for Vite with Naive UI Styles.
