@@ -13,9 +13,12 @@ Please see [CONTRIBUTING.md](https://github.com/naive-ui/awesome-naive/blob/main
 
 ## Contents
 
-- [Tutorial](#Tutorial)
-- [Projects Using NaiveUI](#Projects-Using-NaiveUI)
-- [Related To NaiveUI](#Related-To-NaiveUI)
+- [Contributing](#contributing)
+- [Contents](#contents)
+- [List](#list)
+  - [Tutorial](#tutorial)
+  - [Projects Using NaiveUI](#projects-using-naiveui)
+  - [Related To NaiveUI](#related-to-naiveui)
 
 ## List
 
@@ -30,13 +33,19 @@ Please see [CONTRIBUTING.md](https://github.com/naive-ui/awesome-naive/blob/main
 
 - [Admin Work](https://github.com/qingqingxuan/admin-work) -A free open source, powerful, easy to use, beautiful back-office management system solution.
 - [Naive UI Admin](https://github.com/jekip/naive-ui-admin) - A free open source out-of-box UI solution for enterprise applications.
+- [Gemini Admin UI Simple](https://github.com/luterc/gemini-admin-ui-simple) - A free open source   UI solution,easy to use ,simple and clean.
 - [issue-helper](https://github.com/naive-ui/issue-helper) - NaiveUI issue submit template project.
 - [zce/fearless](https://github.com/zce/fearless) - A dashboard scaffolding based on Vue.js 3.x & TypeScript created by Vite.
+- [zmtlwzy-admin](https://github.com/zmtlwzy/zmtlwzy-admin) - A free open source, original style admin template.
 - [tsx-naive-admin](https://github.com/WalkAlone0325/tsx-naive-admin) - A backend management template based on Vue 3 + Naive UI + TSX + Vite.
 - [Aisen60/vant-theme](https://github.com/Aisen60/vant-theme) - Online theme preview tool built on vant UI
 - [Opentapes](https://codeberg.org/xaviers/Opentapes) - A convergent/adaptive app for streaming Hip-Hop mixtapes. Made with Vue.js & Tauri.
 - [Soybean Admin](https://github.com/honghuangdc/soybean-admin) - a beautiful vue admin template, based on Vue3 + Vite + Naive UI + TypeScript.
-- [Sweetforms](https://github.com/ChronicStone/VueSweetforms) - A feature rich schema-based form generator package build with Naive UI + Typescript
+- [Sweetforms](https://github.com/ChronicStone/VueSweetforms) - A feature rich schema-based form generator package build with Naive UI + Typescript.
+- [Pear-Admin-Naive](https://github.com/pearadmin/pear-admin-naive) - A free open source admin template, base on Typescript + Vue3(script setup) + Vite + Naive UI + umi-request(Fetch).
+- [naive-ui-form-creator](https://github.com/doom-9/naive-ui-form-creator) - A visual form generator with rich functions based on naive UI.
+- [Apache DolphinScheduler](https://github.com/apache/dolphinscheduler/tree/dev/dolphinscheduler-ui-next) - A distributed and easy-to-extend visual workflow scheduler system.
+- [SymPy Beta](https://github.com/eagleoflqj/sympy_beta) - An answer engine without backend, powered by SymPy and Pyodide.
 
 ### Related To NaiveUI
 
